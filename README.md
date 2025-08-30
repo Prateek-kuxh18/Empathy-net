@@ -1,5 +1,6 @@
+HEAD
 EmpathyNet 2070 — Full Futuristic Demo (Pure CSS)
-==================================================
+
 
 This is a ready-to-run React + Vite project (no Tailwind). It includes:
 - Thought → Emotion hologram posts (simulated)
@@ -18,3 +19,7 @@ How to run:
 Files:
 - src/: React source files
 - public/: optional static assets
+
+# Empathy-net
+Project for CopilotJam
+55bdf193c45473f35d29ab3cae4265005ef6e9d8
